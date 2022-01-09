@@ -1,0 +1,14 @@
+C:\Users\margi\Desktop\c#\A1MarginPatel\bin\Debug\netcoreapp3.1\A1MarginPatel.exe
+C:\Users\margi\Desktop\c#\A1MarginPatel\bin\Debug\netcoreapp3.1\A1MarginPatel.deps.json
+C:\Users\margi\Desktop\c#\A1MarginPatel\bin\Debug\netcoreapp3.1\A1MarginPatel.runtimeconfig.json
+C:\Users\margi\Desktop\c#\A1MarginPatel\bin\Debug\netcoreapp3.1\A1MarginPatel.runtimeconfig.dev.json
+C:\Users\margi\Desktop\c#\A1MarginPatel\bin\Debug\netcoreapp3.1\A1MarginPatel.dll
+C:\Users\margi\Desktop\c#\A1MarginPatel\bin\Debug\netcoreapp3.1\A1MarginPatel.pdb
+C:\Users\margi\Desktop\c#\A1MarginPatel\obj\Debug\netcoreapp3.1\A1MarginPatel.csproj.AssemblyReference.cache
+C:\Users\margi\Desktop\c#\A1MarginPatel\obj\Debug\netcoreapp3.1\A1MarginPatel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\margi\Desktop\c#\A1MarginPatel\obj\Debug\netcoreapp3.1\A1MarginPatel.AssemblyInfoInputs.cache
+C:\Users\margi\Desktop\c#\A1MarginPatel\obj\Debug\netcoreapp3.1\A1MarginPatel.AssemblyInfo.cs
+C:\Users\margi\Desktop\c#\A1MarginPatel\obj\Debug\netcoreapp3.1\A1MarginPatel.csproj.CoreCompileInputs.cache
+C:\Users\margi\Desktop\c#\A1MarginPatel\obj\Debug\netcoreapp3.1\A1MarginPatel.dll
+C:\Users\margi\Desktop\c#\A1MarginPatel\obj\Debug\netcoreapp3.1\A1MarginPatel.pdb
+C:\Users\margi\Desktop\c#\A1MarginPatel\obj\Debug\netcoreapp3.1\A1MarginPatel.genruntimeconfig.cache
